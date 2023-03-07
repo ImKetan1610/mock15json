@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "ketan",
+      "email": "k@g.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 1
+    },
+    {
+      "name": "Ketan123",
+      "email": "ketan@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 2
+    },
+    {
+      "name": "Ketan4321",
+      "email": "km@gmail.com",
+      "password": "4321",
+      "confirmPassword": "4321",
+      "id": 3
+    },
+    {
+      "name": "qwerty",
+      "email": "k@gmail.com",
+      "password": "qwerty",
+      "confirmPassword": "qwerty",
+      "id": 4
+    }
+  ],
+  "tasks": []
+}
